@@ -16,6 +16,6 @@ Iap-In-App Purchases    IOS应用内支付IAP
 
 --------------------- 
 
-[iOS内购Iap-In-App Purchases那些事](https://www.jianshu.com/p/d1905a3e5920)
-[关于IAP内购详细流程](https://www.jianshu.com/p/d6c678900a34)
-[RMStore](hah)
++ [iOS内购Iap-In-App Purchases那些事](https://www.jianshu.com/p/d1905a3e5920)
++ [关于IAP内购详细流程](https://www.jianshu.com/p/d6c678900a34)
++ [RMStore](https://github.com/robotmedia/RMStore)
